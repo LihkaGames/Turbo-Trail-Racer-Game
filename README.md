@@ -60,7 +60,7 @@
 * **Engine Logic:** Real-time 2D physics gravity and torque management.
 * **Garage System:** Advanced vehicle state persistence for part upgrades.
 * **Performance:** High-performance 16.84 MB APK, optimized for budget devices.
-* **Architecture:** Robust Java code structure for smooth level transitions.
+ 
 
 ---
 
