@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏎️ Turbo Trail Racer: Physics Adventure 🏎️
+# 🏎️ Turbo Trail Racer 🏎️
 
 ### Gravity. Speed. Upgrades. The Ultimate 2D Racing Challenge.
 
