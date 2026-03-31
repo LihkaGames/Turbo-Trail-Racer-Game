@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏎️ Turbo Trail Racer 🏎️
+# 🏎️ Turbo Trail Racer: Physics Adventure 🏎️
 
 ### Gravity. Speed. Upgrades. The Ultimate 2D Racing Challenge.
 
@@ -44,7 +44,7 @@
 
 ## 🎮 Game Features
 
-**Turbo Trail Racer** एक रोमांचक 2D फिजिक्स-बेस्ड रेसिंग गेम है जहाँ आपको अपनी ड्राइविंग स्किल्स और अपग्रेड्स के दम पर ऊबड़-खाबड़ रास्तों को फतह करना है।
+**Turbo Trail Racer** is an exciting 2D physics-based racing game where you must master driving skills and vehicle upgrades to conquer rugged terrains.
 
 | Category | Features |
 |:----------|:-------------|
@@ -60,16 +60,16 @@
 * **Engine Logic:** Real-time 2D physics gravity and torque management.
 * **Garage System:** Advanced vehicle state persistence for part upgrades.
 * **Performance:** High-performance 16.84 MB APK, optimized for budget devices.
- 
+* **Architecture:** Robust Java code structure for smooth level transitions.
 
 ---
 
 <div align="center">
 
 ## 📝 How to Install
-1. ऊपर दिए गए **Download APK** बटन पर क्लिक करें।
-2. अपने एंड्रॉइड डिवाइस पर डाउनलोड की गई फाइल (**Turbo.Trail.Racer.apk**) खोलें।
-3. यदि सेटिंग्स में पूछा जाए तो **"Install from Unknown Sources"** की अनुमति दें।
-4. **Turbo Trail Racer** लॉन्च करें और रेस शुरू करें!
+1. Click the **Download APK** button above.
+2. Open the downloaded file (**Turbo.Trail.Racer.apk**) on your Android device.
+3. Allow **"Install from Unknown Sources"** in your settings if prompted.
+4. Launch **Turbo Trail Racer** and start the race!
 
 </div>
